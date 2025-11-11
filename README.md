@@ -9,20 +9,24 @@ This dashboard provides a clear snapshot of how data analytics can support strat
 4.	Dashboard Design: Combined visuals into a single, interactive layout with consistent color themes and KPIs.
 
 🔑 Key Results
-•	Total Sales Growth: ₹27.01 Cr → ₹28.57 Cr (📈 5.8% QoQ growth)
-•	Yearly Performance: Overall YoY growth of 5.8%, reflecting steady expansion.
-•	Top Category: Electronics led with ₹9,072 in sales, followed by Beauty and Books.
-•	Preferred Payment: Cash on Delivery (26%) slightly ahead of digital methods.
-•	Top States: Sikkim (1,753 units) and Madhya Pradesh (1,670 units) recorded the highest quantities sold.
-•	Customer Satisfaction: Electronics (3.07⭐) achieved the best average rating.
+
+1.  Total Sales Growth: ₹27.01 Cr → ₹28.57 Cr (📈 5.8% QoQ growth).
+2.  Yearly Performance: Overall YoY growth of 5.8%, reflecting steady expansion.
+3.  Top Category: Electronics led with ₹9,072 in sales, followed by Beauty and Books.
+4.  Preferred Payment: Cash on Delivery (26%) slightly ahead of digital methods.
+5.  Top States: Sikkim (1,753 units) and Madhya Pradesh (1,670 units) recorded the highest quantities sold.
+6.  Customer Satisfaction: Electronics (3.07⭐) achieved the best average rating.
 
 💡 Key Insights
-•	Despite digital adoption, COD remains dominant, reflecting trust and convenience preferences.
-•	Quarterly sales increase shows consistent performance and effective retention strategies.
-•	Balanced 20% share per category ensures a strong, diversified product mix.
-•	Electronics and Beauty continue to drive both revenue and satisfaction.
 
-🧠 Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
-📈 Focus Areas: Sales Analytics | Consumer Insights | Business Intelligence | Visualization
-#ExcelDashboard #DataAnalytics #BusinessInsights #Ecommerce #Excel #DashboardDesign #DataVisualization #Analytics #DataDriven
+1.  Despite digital adoption, COD remains dominant, reflecting trust and convenience preferences.
+2.  Quarterly sales increase shows consistent performance and effective retention strategies.
+3.  Balanced 20% share per category ensures a strong, diversified product mix.
+4.  Electronics and Beauty continue to drive both revenue and satisfaction.
+
+🧠   Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting)
+
+📈   Focus Areas: Sales Analytics | Consumer Insights | Business Intelligence | Visualization
+
+
 
